@@ -8,6 +8,8 @@
 ![General badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![General badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+I'm Student of Mirim Meister School. FrontEnd Developer is my Dream 💻🖱
+
 ### 🎀 Me 🎀
 <a href="https://www.instagram.com/dbdbennn/">![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.facebook.com/profile.php?id=100019055978103">![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
