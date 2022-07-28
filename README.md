@@ -22,7 +22,7 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
 ![General badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![General badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![General badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<br />
+<br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzsilver&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/uzsilver/github-readme-stats)
 [![JungEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzsilver)](https://github.com/uzsilver/github-readme-stats)
 </div>
