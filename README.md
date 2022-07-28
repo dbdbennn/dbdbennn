@@ -1,6 +1,6 @@
 # 🤍 Welcome To My Home Page 🤍
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JungEun%20GitHub&fontSize=90)
 
 ### 🎀 Me 🎀
 <a href="https://www.instagram.com/dbdbennn/">![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
