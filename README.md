@@ -1,7 +1,8 @@
+<div align=center> 
+
 # 🤍 Welcome To My Home Page 🤍
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JungEun's%20GitHub&fontSize=90)
-
 
 ### 🎀 Me 🎀
 <a href="https://www.instagram.com/dbdbennn/">![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
@@ -24,3 +25,4 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
 
 [![JungEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzsilver)](https://github.com/uzsilver/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzsilver&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/uzsilver/github-readme-stats)
+</div>
