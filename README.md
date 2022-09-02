@@ -25,4 +25,8 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
 <br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbdbennn&exclude_repo=github-readme-stats,dbdbennn.github.io)](https://github.com/uzsilver/github-readme-stats)
 [![JungEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbdbennn)](https://github.com/dbdbennn/github-readme-stats)
+  
+![image](https://user-images.githubusercontent.com/85720276/188040022-7cf42282-c7c7-4b1b-bb2e-34ec98b4420c.png)
+
 </div>
+
