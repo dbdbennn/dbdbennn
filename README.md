@@ -1,6 +1,6 @@
 <div align=center> 
 
-# 🤍 Welcome To My Home Page 🤍
+# 🤎 Welcome To My Home Page 🤎
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JungEun's%20GitHub&fontSize=90)
 
@@ -25,8 +25,29 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
 <br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbdbennn&exclude_repo=github-readme-stats,dbdbennn.github.io)](https://github.com/uzsilver/github-readme-stats)
 [![JungEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbdbennn)](https://github.com/dbdbennn/github-readme-stats)
-  
-![image](https://user-images.githubusercontent.com/85720276/188040022-7cf42282-c7c7-4b1b-bb2e-34ec98b4420c.png)
 
+</div>
+
+<br />
+<details>
+  <summary><h2> 🎧 my aesthetic
+.☆.｡.:.+*:ﾟ+｡.ﾟ･*..☆.｡.:*.☆.｡.:.+*:ﾟ+｡.ﾟ･*..☆.｡.:*.☆.｡.:.+*:ﾟ+｡.ﾟ･*..☆.｡.:*</h2></summary>
+<div markdown="2" align="right" style="background-color⬛;">
+
+![image](https://user-images.githubusercontent.com/85720276/188042623-8379d890-ba83-465d-84ad-8d6558b7ad4e.png)
+  
+![image](https://user-images.githubusercontent.com/85720276/188042987-783fb13a-f211-4df1-9493-86f1106b830e.png)
+
+  
+![image](https://user-images.githubusercontent.com/85720276/188044263-2f2f0a10-cbce-4075-90aa-db700e6a8b56.png)
+
+![image](https://user-images.githubusercontent.com/85720276/188044181-891f54d2-8de8-4330-b56a-f1af7b81c513.png)
+  
+![image](https://user-images.githubusercontent.com/85720276/188043168-41c2ff48-e831-4f11-80b8-e67d2b43d389.png)
+
+![image](https://user-images.githubusercontent.com/85720276/188048504-b9e6e050-0ef6-4e26-9a02-b5379565dfea.png)
+</div>
+</details>
+<br />
 </div>
 
