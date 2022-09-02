@@ -7,7 +7,7 @@
 ### 🎀 Me 🎀
 <a href="https://www.instagram.com/dbdbennn/">![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.facebook.com/profile.php?id=100019055978103">![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkVJwCNBLBhRpHVBCnkQWRgcRtrrNHDSsVlKkSjwsLnWRchCFwDttkPgpjCvphgNSTPbzm">![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 
 Hi 👋, I'm Student of Mirim Meister School.<br/>
 FrontEnd Developer is my Dream 💻🖱
