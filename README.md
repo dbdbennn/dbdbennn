@@ -2,7 +2,7 @@
 
 # 🤎 Welcome To My Home Page 🤎
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JungEun's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=JungEun's%20GitHub&fontSize=90)
 
 ### 🎀 Me 🎀
 <a href="https://www.instagram.com/dbdbennn/">![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
