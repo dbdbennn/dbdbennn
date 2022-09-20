@@ -1,10 +1,8 @@
 <div align=center> 
 
-# 🤎 Welcome To My Home Page 🤎
+![header](https://capsule-render.vercel.app/api?type=egg&color=DEC5AE&height=300&section=header&text=well%20come&fontSize=90&fontColor=C7Af99)
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=DEC5AE&height=300&section=header&text=JungEun's%20GitHub&fontSize=90&fontColor=C7Af99)
-
-### 🎀 Me 🎀
+### *:..｡♡*ﾟ¨ﾟﾟ･*:..｡. Me *:..｡♡*ﾟ¨ﾟﾟ･*:..｡:*
 <a href="https://www.instagram.com/dbdbennn/">![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.facebook.com/profile.php?id=100019055978103">![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 
