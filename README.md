@@ -1,6 +1,6 @@
 <div align=center> 
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=DEC5AE&height=300&section=header&text=well%20come&fontSize=90&fontColor=C7Af99)
+![header](https://capsule-render.vercel.app/api?type=egg&color=C7Af99&height=300&section=header&text=well%20come&fontSize=90&fontColor=DEC5AE)
 
 ### *:..｡♡*ﾟ¨ﾟﾟ･*:..｡. Me *:..｡♡*ﾟ¨ﾟﾟ･*:..｡:*
 <a href="https://www.instagram.com/dbdbennn/">![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
