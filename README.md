@@ -3,8 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=C7Af99&height=300&section=header&text=well%20come&fontSize=90&fontColor=DEC5AE)
 
 ### *:..｡♡*ﾟ¨ﾟﾟ･*:..｡. Me *:..｡♡*ﾟ¨ﾟﾟ･*:..｡:*
-<a href="https://www.instagram.com/dbdbennn/">![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://www.facebook.com/profile.php?id=100019055978103">![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="https://www.instagram.com/dbdbennn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/dbdbennn/"/></a>
+<a href="https://velog.io/@dbdbennn"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@dbdbennn"/></a>
+<a href="https://discord.com/channels/1021733879637352469/1021733880161648642"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 
 
 Hi 👋, I'm Student of Mirim Meister School.<br/>
@@ -14,15 +15,22 @@ FrontEnd Developer is my Dream 💻🖱
 I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
 
 ### 📚 Tech Stack
-![General badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![General badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![General badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![General badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![General badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![General badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
 <br /><br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbdbennn&exclude_repo=github-readme-stats,dbdbennn.github.io)](https://github.com/uzsilver/github-readme-stats)
-[![JungEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbdbennn)](https://github.com/dbdbennn/github-readme-stats)
+
+![](https://github.com/dbdbennn/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/dbdbennn/github-stats-transparent/blob/output/generated/languages.svg)
 
 </div>
 
