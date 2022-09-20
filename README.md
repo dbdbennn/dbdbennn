@@ -6,13 +6,14 @@
 <a href="https://www.instagram.com/dbdbennn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/dbdbennn/"/></a>
 <a href="https://velog.io/@dbdbennn"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@dbdbennn"/></a>
 <a href="https://discord.com/channels/1021733879637352469/1021733880161648642"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
+<br /><br />
 
-
+### What person am I ❔ 
 Hi 👋, I'm Student of Mirim Meister School.<br/>
 FrontEnd Developer is my Dream 💻🖱
 
-
 I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
+<br /><br />
 
 ### 📚 Tech Stack
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
@@ -29,9 +30,9 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
 <br /><br />
 
-![](https://github.com/dbdbennn/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/dbdbennn/github-stats-transparent/blob/output/generated/languages.svg)
-
+![Jung Eun's github stats](https://github-readme-stats.vercel.app/api?username=dbdbennn&show_icons=true)
+![Jung Eun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dbdbennn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+    
 </div>
 
 <br />
@@ -41,16 +42,10 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
 <div markdown="2" align="right" style="background-color⬛;">
 
 ![image](https://user-images.githubusercontent.com/85720276/188042623-8379d890-ba83-465d-84ad-8d6558b7ad4e.png)
-  
-![image](https://user-images.githubusercontent.com/85720276/188042987-783fb13a-f211-4df1-9493-86f1106b830e.png)
-
-  
+![image](https://user-images.githubusercontent.com/85720276/188042987-783fb13a-f211-4df1-9493-86f1106b830e.png
 ![image](https://user-images.githubusercontent.com/85720276/188044263-2f2f0a10-cbce-4075-90aa-db700e6a8b56.png)
-
 ![image](https://user-images.githubusercontent.com/85720276/188044181-891f54d2-8de8-4330-b56a-f1af7b81c513.png)
-  
 ![image](https://user-images.githubusercontent.com/85720276/188043168-41c2ff48-e831-4f11-80b8-e67d2b43d389.png)
-
 ![image](https://user-images.githubusercontent.com/85720276/188048504-b9e6e050-0ef6-4e26-9a02-b5379565dfea.png)
 </div>
 </details>
