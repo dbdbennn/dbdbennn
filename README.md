@@ -31,7 +31,6 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
 <br /><br />
 
 ![Jung Eun's github stats](https://github-readme-stats.vercel.app/api?username=dbdbennn&show_icons=true)
-![Jung Eun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dbdbennn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
     
 </div>
 
