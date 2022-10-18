@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=C7Af99&height=300&section=header&text=well%20come&fontSize=90&fontColor=DEC5AE)
 
 ### *:..｡♡*ﾟ¨ﾟﾟ･*:..｡. Me *:..｡♡*ﾟ¨ﾟﾟ･*:..｡:*
-<a href="https://www.instagram.com/dbdbennn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/dbdbennn/"/></a>
+<a href="https://www.instagram.com/dbdbeun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/dbdbennn/"/></a>
 <a href="https://velog.io/@dbdbennn"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@dbdbennn"/></a>
 <a href="https://discord.com/channels/1021733879637352469/1021733880161648642"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 <br /><br />
