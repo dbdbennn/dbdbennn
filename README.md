@@ -6,6 +6,7 @@
 <a target="_blank" href="https://www.instagram.com/dbdbeun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/dbdbennn/"/></a>
 <a target="_blank" href="https://velog.io/@dbdbennn"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@dbdbennn"/></a>
 <a target="_blank" href="https://discord.com/channels/1021733879637352469/1021733880161648642"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
+ <a href="mailto:wlgp2500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:0hh.0553@gmail.com"/></a>
 <br /><br />
 
 ### What person am I ❔ 
