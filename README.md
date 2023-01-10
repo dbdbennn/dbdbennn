@@ -1,6 +1,6 @@
 <div align=center> 
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=c1daff&height=300&section=header&text=well%20come&fontSize=90&fontColor=d8e8ff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=egg&color=c1daff&height=300&section=header&text=well%20come&fontSize=80&fontColor=d8e8ff&animation=twinkling)
 
 ### *:..｡♡*ﾟ¨ﾟﾟ･*:..｡. Me *:..｡♡*ﾟ¨ﾟﾟ･*:..｡:*
 <a target="_blank" href="https://www.instagram.com/dbdbeun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/dbdbennn/"/></a>
@@ -53,3 +53,8 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
 <br />
 </div>
 
+<div align=center>
+ 
+ ![footer](https://capsule-render.vercel.app/api?type=egg&color=c1daff&height=300&text=have%20nice%20day&fontSize=80&fontColor=d8e8ff&animation=twinkling&section=footer)
+ 
+ </div>
