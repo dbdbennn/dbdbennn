@@ -30,10 +30,8 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
   <img src ="https://img.shields.io/badge/Django-003729.svg?&style=flat&logo=Django&logoColor=ffffff"/></a>
-<br /><br />
+<br />
 
-![Jung Eun's github stats](https://github-readme-stats.vercel.app/api?username=dbdbennn&show_icons=true)
-    
 </div>
 
 <br />
