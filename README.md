@@ -10,7 +10,7 @@
 <br /><br />
 
 ### What person am I ❔ 
-Hi 👋, I'm Student of Mirim Meister School.<br/>
+Hi 👋, I'm Student of Mirim Meister HighSchool.<br/>
 FrontEnd Developer is my Dream 💻🖱
 
 I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
