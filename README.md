@@ -57,7 +57,7 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
  
  <details>
   <summary><h2> 🎧 my aesthetic
-.☆.｡.:.+*:ﾟ+｡.ﾟ･*..☆.｡.:*.☆.｡.:.+*:ﾟ+｡.ﾟ･*..☆.｡.:*.☆.｡.:.+*:ﾟ+｡.ﾟ･*..☆.｡.:**:ﾟ+｡.ﾟ･</h2></summary>
+.☆.｡.:.+*:ﾟ+｡.ﾟ･*..☆.｡.:*.☆.｡.:.+*:ﾟ+｡.ﾟ･*..☆.｡.:*.☆.｡.:.+*:ﾟ+｡.ﾟ･*..☆.｡.:**:ﾟ</h2></summary>
 <div markdown="2" align="right" style="background-color⬛;">
 
 ![image](https://user-images.githubusercontent.com/85720276/188042623-8379d890-ba83-465d-84ad-8d6558b7ad4e.png)
