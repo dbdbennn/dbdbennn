@@ -17,7 +17,7 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
 <br /><br />
 
 ### 📚 Tech Stack
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JAVA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
@@ -29,7 +29,7 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
-  <img src ="https://img.shields.io/badge/Django-003729.svg?&style=flat&logo=Django&logoColor=ffffff"/></a>
+  <img src ="https://img.shields.io/badge/React-222222.svg?&style=flat&logo=React&logoColor=61dafb"/></a>
 <br />
 
 </div>
