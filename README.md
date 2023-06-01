@@ -26,7 +26,8 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
   <br>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle SQL-eb0000?style=flat&logo=Oracle&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C-005494?style=flat&logo=C&logoColor=ffffff"/> 
+  <img src="https://img.shields.io/badge/C-005494?style=flat&logo=C&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/firebase-F5820D?style=flat&logo=firebase&logoColor=ffffff"/>
 <br />
 <br />
 
