@@ -11,7 +11,7 @@
 
 ### What person am I ❔ 
 Hi 👋, I'm Student of Mirim Meister HighSchool.<br/>
-I'm currently undergoing field training at JNPMEDI. 💻🖱
+I'm currently undergoing field training at <a href="https://jnpmedi.com/ko">JNPMEDI</a>. 💻🖱
 
 I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
 <br /><br />
