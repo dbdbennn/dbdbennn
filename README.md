@@ -11,7 +11,7 @@
 
 ### What person am I ❔ 
 Hi 👋, I'm Student of Mirim Meister HighSchool.<br/>
-FrontEnd Developer is my Dream 💻🖱
+I'm currently undergoing field training at JNPMEDI. 💻🖱
 
 I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
 <br /><br />
