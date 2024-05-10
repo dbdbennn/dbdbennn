@@ -1,6 +1,7 @@
 <div align=center> 
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=BAC9CF&height=300&section=header&text=welcome&fontSize=80&fontColor=eeeeee&animation=twinkling)
+<!--![header](https://capsule-render.vercel.app/api?type=egg&color=BAC9CF&height=300&section=header&text=welcome&fontSize=80&fontColor=eeeeee&animation=twinkling)-->
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome✨&fontSize=70&color=0:8871e5,100:b678c4)
 
 ### *:..｡♡*ﾟ¨ﾟﾟ･*:..｡. Me *:..｡♡*¨ﾟﾟ･*:..｡:*
 <a target="_blank" href="https://www.instagram.com/dbdbeun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/dbdbennn/"/></a>
@@ -46,7 +47,7 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
 </div>
 
 <br />
-<details align=center>
+<!--<details align=center>
   <summary><h2> who is in there???</h2></summary>
 
  
@@ -62,7 +63,7 @@ I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
  
  ![footer](https://capsule-render.vercel.app/api?type=egg&color=BAC9CF&height=300&text=have%20nice%20day&fontSize=80&fontColor=eeeeee&animation=twinkling&section=footer)
  
- </div>
+ </div>-->
  
  <details>
   <summary><h2> 🎧 my aesthetic
