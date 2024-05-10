@@ -10,7 +10,7 @@
 <br /><br />
 
 ### What person am I ❔ 
-Hi 👋, I'm Student of Mirim Meister HighSchool.<br/>
+Hi 👋, I'm graduated from Mirim Meister HighSchool.<br/>
 
 I enjoy playing drum 🥁, playing sports 🏐, listening musics 🎧.
 <br /><br />
